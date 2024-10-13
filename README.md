@@ -1,7 +1,3 @@
-Here's a concise and engaging description for your GitHub README:
-
----
-
 # Fake News Classification using DistilBERT
 
 This repository contains a comprehensive implementation of a Fake News Classification project utilizing the DistilBERT model from scratch, built entirely with PyTorch. 
