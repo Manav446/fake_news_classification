@@ -15,7 +15,7 @@ class PrepareBaseModelConfig:
     max_sequence_length: int = 128
     d_model: int = 768
     num_heads: int = 12
-    num_layers: int = 8
+    num_layers: int = 6
     ffn_hidden_layers: int = 3072
     vocab_size: int = 30522
     batch_size: int = 32
